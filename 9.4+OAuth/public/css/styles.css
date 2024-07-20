@@ -1,0 +1,24 @@
+
+.ColorPage{
+  background-color: #E8ECEF;
+}
+.home-wallpaper{
+  background-image: url("../images/Research\ Methodology\ _\ Phd\ Research\ Methodology\ to\ Understanding\ the\ Qualitative\ Research.jpg");
+ background-position:right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.centered {
+  
+  padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+ 
+}
